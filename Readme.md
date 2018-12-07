@@ -3,13 +3,13 @@
 This repository includes some of the data augmentation techniques using only numpy and tensorflow.
 
 1. Gaussian noise
-![Results](https://github.com/omercelik-cs/tensorflow-image-augmentation/tree/master/examples/gaussian_noise)
+![Results](https://github.com/omercelik-cs/tensorflow-image-augmentation/blob/master/examples/gaussian_noise.PNG)
 2. Salt and pepper noise
-![Results](https://github.com/omercelik-cs/tensorflow-image-augmentation/tree/master/examples/gaussian_noise)
+![Results](https://github.com/omercelik-cs/tensorflow-image-augmentation/blob/master/examples/gaussian_noise.PNG)
 3. Affine transform by rotation angles
-![Results](https://github.com/omercelik-cs/tensorflow-image-augmentation/tree/master/examples/gaussian_noise)
+![Results](https://github.com/omercelik-cs/tensorflow-image-augmentation/blob/master/examples/gaussian_noise.PNG)
 4 Rotation by 90 degrees
-![Results](https://github.com/omercelik-cs/tensorflow-image-augmentation/tree/master/examples/gaussian_noise)
+![Results](https://github.com/omercelik-cs/tensorflow-image-augmentation/blob/master/examples/gaussian_noise.PNG)
 5. Horizontal and vertical flip
 ![Results](https://github.com/omercelik-cs/tensorflow-image-augmentation/tree/master/examples/gaussian_noise)
 6. Shifting
