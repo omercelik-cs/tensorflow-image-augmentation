@@ -2,7 +2,7 @@
 
 This repository includes some of the data augmentation techniques using only numpy and tensorflow.
 
-1. Gaussian noise
+1. Gaussian noise\
 ![Results](https://github.com/omercelik-cs/tensorflow-image-augmentation/blob/master/examples/gaussian_noise.PNG)
 2. Salt and pepper noise
 ![Results](https://github.com/omercelik-cs/tensorflow-image-augmentation/blob/master/examples/gaussian_noise.PNG)
